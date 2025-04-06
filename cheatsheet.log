@@ -1,0 +1,590 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.17)  6 APR 2025 14:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cheatsheet
+(./cheatsheet.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/size8.clo
+File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen150
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count199
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count266
+\leftroot@=\count267
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count268
+\DOTSCASE@=\count269
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count270
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count271
+\dotsspace@=\muskip16
+\c@parentequation=\count272
+\dspbrk@lvl=\count273
+\tag@help=\toks20
+\row@=\count274
+\column@=\count275
+\maxfields@=\count276
+\andhelp@=\toks21
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks29
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip56
+\enit@outerparindent=\dimen159
+\enit@toks=\toks30
+\enit@inbox=\box53
+\enit@count@id=\count277
+\enitdp@description=\count278
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box54
+\TP@holdbox=\box55
+\TPHorizModule=\dimen162
+\TPVertModule=\dimen163
+\TP@margin=\dimen164
+\TP@absmargin=\dimen165
+
+Grid set 16 x 16 = 38.39343pt x 49.68562pt
+\TPboxrulesize=\dimen166
+\TP@ox=\dimen167
+\TP@oy=\dimen168
+\TP@tbargs=\toks31
+TextBlockOrigin set to 0pt x 0pt
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box56
+\extrarowheight=\dimen170
+\NC@list=\toks32
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box57
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen171
+\lightrulewidth=\dimen172
+\cmidrulewidth=\dimen173
+\belowrulesep=\dimen174
+\belowbottomsep=\dimen175
+\aboverulesep=\dimen176
+\abovetopsep=\dimen177
+\cmidrulesep=\dimen178
+\cmidrulekern=\dimen179
+\defaultaddspace=\dimen180
+\@cmidla=\count279
+\@cmidlb=\count280
+\@aboverulesep=\dimen181
+\@belowrulesep=\dimen182
+\@thisruleclass=\count281
+\@lastruleclass=\count282
+\@thisrulewidth=\dimen183
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count283
+\mult@box=\box58
+\multicol@leftmargin=\dimen184
+\c@unbalance=\count284
+\c@collectmore=\count285
+\doublecol@number=\count286
+\multicoltolerance=\count287
+\multicolpretolerance=\count288
+\full@width=\dimen185
+\page@free=\dimen186
+\premulticols=\dimen187
+\postmulticols=\dimen188
+\multicolsep=\skip73
+\multicolbaselineskip=\skip74
+\partial@page=\box59
+\last@line=\box60
+\mc@boxedresult=\box61
+\maxbalancingoverflow=\dimen189
+\mult@rightbox=\box62
+\mult@grightbox=\box63
+\mult@firstbox=\box64
+\mult@gfirstbox=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count289
+\c@columnbadness=\count290
+\c@finalcolumnbadness=\count291
+\last@try=\dimen190
+\multicolovershoot=\dimen191
+\multicolundershoot=\dimen192
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count292
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count293
+\l__pdf_internal_box=\box104
+) (./cheatsheet.aux)
+\openout1 = `cheatsheet.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(7.22743pt, 599.84013pt, 7.22743pt)
+* v-part:(T,H,B)=(0.0pt, 794.96999pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=599.84013pt
+* \textheight=794.96999pt
+* \oddsidemargin=-65.04256pt
+* \evensidemargin=-65.04256pt
+* \topmargin=-109.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=30.0pt
+* \marginparwidth=74.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count294
+\scratchdimen=\dimen193
+\scratchbox=\box105
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen194
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks34
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 44.
+
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/mem_img.png, id=11, 625.33624pt x 785.93625pt>
+File: images/mem_img.png Graphic file (type png)
+<use images/mem_img.png>
+Package pdftex.def Info: images/mem_img.png  used on input line 83.
+(pdftex.def)             Requested size: 119.96619pt x 150.76852pt.
+
+Overfull \hbox (1.8889pt too wide) in paragraph at lines 60--86
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
+
+ []
+
+<images/thread_state.png, id=13, 790.955pt x 540.0175pt>
+File: images/thread_state.png Graphic file (type png)
+<use images/thread_state.png>
+Package pdftex.def Info: images/thread_state.png  used on input line 147.
+(pdftex.def)             Requested size: 127.46692pt x 87.02255pt.
+
+Overfull \hbox (14.14052pt too wide) in paragraph at lines 136--150
+[]$   $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--154
+
+ []
+
+
+Overfull \hbox (3.89558pt too wide) in paragraph at lines 58--183
+[]|  $[]$   |  $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\OT1/cmr/m/n/8 pro-cess im-me-di-ately af-ter
+ []
+
+
+Overfull \hbox (5.47566pt too wide) in paragraph at lines 184--227
+[]  [] [] [] [] 
+ []
+
+[1{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./images/mem_img.png> <./images/thread_state.png>]
+<images/tlb.png, id=25, 1322.9425pt x 685.56125pt>
+File: images/tlb.png Graphic file (type png)
+<use images/tlb.png>
+Package pdftex.def Info: images/tlb.png  used on input line 244.
+(pdftex.def)             Requested size: 164.95694pt x 85.47527pt.
+
+Overfull \hbox (1.8889pt too wide) in paragraph at lines 244--244
+[]$ $[]$ 
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 231--246
+[] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 259.
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
+
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 326--330
+\OT1/cmr/m/n/8 Let $\OML/cmm/m/it/8 m$ \OT1/cmr/m/n/8 be the num-ber of bits in the \OT1/cmr/bx/n/8 vir-tual ad-dress \OT1/cmr/m/n/8 (i.e., $\OML/cmm/m/it/8 m \OT1/cmr/m/n/8 =
+ []
+
+<images/paging.png, id=26, 982.67125pt x 388.45125pt>
+File: images/paging.png Graphic file (type png)
+<use images/paging.png>
+Package pdftex.def Info: images/paging.png  used on input line 331.
+(pdftex.def)             Requested size: 187.14668pt x 73.9784pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--395
+
+ []
+
+[2 <./images/tlb.png> <./images/paging.png>]
+Underfull \hbox (badness 1005) in paragraph at lines 436--437
+[]\OT1/cmr/bx/n/8 Inode: \OT1/cmr/m/n/8 Kernel-managed struc-ture
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 444--452
+\OT1/cmr/m/n/8 - \OT1/cmr/bx/n/8 Func-tion: \OT1/cmr/m/n/8 Maps human-readable
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 459.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 466--474
+
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 497--498
+[]\OT1/cmr/m/n/8 number of in-odes, num-ber of data
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 510--511
+[]\OT1/cmr/m/n/8 (i)/(d) \OT1/cmr/bx/n/8 Bitmap Blocks \OT1/cmr/m/n/8 | tracks
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 523--524
+[]\OT1/cmr/bx/n/8 Boot Block \OT1/cmr/m/n/8 | boot-loader code;
+ []
+
+<images/blocks.png, id=42, 1149.29375pt x 136.51pt>
+File: images/blocks.png Graphic file (type png)
+<use images/blocks.png>
+Package pdftex.def Info: images/blocks.png  used on input line 526.
+(pdftex.def)             Requested size: 299.92006pt x 35.62299pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--527
+|  []|  []
+ []
+
+<images/soft-hard.png, id=43, 1140.26pt x 546.04pt>
+File: images/soft-hard.png Graphic file (type png)
+<use images/soft-hard.png>
+Package pdftex.def Info: images/soft-hard.png  used on input line 538.
+(pdftex.def)             Requested size: 153.40874pt x 73.46225pt.
+
+Overfull \hbox (1.83333pt too wide) in paragraph at lines 532--572
+[]$[]$  $[]$ 
+ []
+
+<images/multi-level-indexing.png, id=44, 1172.38pt x 570.13pt>
+File: images/multi-level-indexing.png Graphic file (type png)
+<use images/multi-level-indexing.png>
+Package pdftex.def Info: images/multi-level-indexing.png  used on input line 580.
+(pdftex.def)             Requested size: 284.92313pt x 138.55649pt.
+<images/read.png, id=45, 1198.4775pt x 416.05438pt>
+File: images/read.png Graphic file (type png)
+<use images/read.png>
+Package pdftex.def Info: images/read.png  used on input line 629.
+(pdftex.def)             Requested size: 299.92006pt x 104.11491pt.
+<images/write.png, id=46, 1160.83687pt x 473.26813pt>
+File: images/write.png Graphic file (type png)
+<use images/write.png>
+Package pdftex.def Info: images/write.png  used on input line 633.
+(pdftex.def)             Requested size: 299.92006pt x 122.27411pt.
+
+Overfull \hbox (7.58118pt too wide) in paragraph at lines 583--635
+$[]$ |  $[]$
+ []
+
+[3 <./images/blocks.png> <./images/soft-hard.png> <./images/multi-level-indexing.png> <./images/read.png> <./images/write.png>] [4] (./cheatsheet.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.6pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4183 strings out of 474116
+ 66631 string characters out of 5743682
+ 1969187 words of memory out of 5000000
+ 26486 multiletter control sequences out of 15000+600000
+ 566985 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,15n,65p,425b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
+Output written on cheatsheet.pdf (5 pages, 2151300 bytes).
+PDF statistics:
+ 175 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
