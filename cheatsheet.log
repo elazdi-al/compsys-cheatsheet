@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.17)  6 APR 2025 14:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.17)  6 APR 2025 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,66 +502,153 @@ LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 4
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 466--474
+Underfull \hbox (badness 10000) in paragraph at lines 468--476
 
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 497--498
+Underfull \hbox (badness 1454) in paragraph at lines 499--500
 []\OT1/cmr/m/n/8 number of in-odes, num-ber of data
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 510--511
+Underfull \hbox (badness 1038) in paragraph at lines 512--513
 []\OT1/cmr/m/n/8 (i)/(d) \OT1/cmr/bx/n/8 Bitmap Blocks \OT1/cmr/m/n/8 | tracks
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 523--524
+Underfull \hbox (badness 1917) in paragraph at lines 525--526
 []\OT1/cmr/bx/n/8 Boot Block \OT1/cmr/m/n/8 | boot-loader code;
  []
 
 <images/blocks.png, id=42, 1149.29375pt x 136.51pt>
 File: images/blocks.png Graphic file (type png)
 <use images/blocks.png>
-Package pdftex.def Info: images/blocks.png  used on input line 526.
+Package pdftex.def Info: images/blocks.png  used on input line 528.
 (pdftex.def)             Requested size: 299.92006pt x 35.62299pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--527
+Underfull \hbox (badness 10000) in paragraph at lines 506--529
 |  []|  []
  []
 
 <images/soft-hard.png, id=43, 1140.26pt x 546.04pt>
 File: images/soft-hard.png Graphic file (type png)
 <use images/soft-hard.png>
-Package pdftex.def Info: images/soft-hard.png  used on input line 538.
+Package pdftex.def Info: images/soft-hard.png  used on input line 540.
 (pdftex.def)             Requested size: 153.40874pt x 73.46225pt.
 
-Overfull \hbox (1.83333pt too wide) in paragraph at lines 532--572
+Overfull \hbox (1.83333pt too wide) in paragraph at lines 534--574
 []$[]$  $[]$ 
  []
 
 <images/multi-level-indexing.png, id=44, 1172.38pt x 570.13pt>
 File: images/multi-level-indexing.png Graphic file (type png)
 <use images/multi-level-indexing.png>
-Package pdftex.def Info: images/multi-level-indexing.png  used on input line 580.
+Package pdftex.def Info: images/multi-level-indexing.png  used on input line 582.
 (pdftex.def)             Requested size: 284.92313pt x 138.55649pt.
 <images/read.png, id=45, 1198.4775pt x 416.05438pt>
 File: images/read.png Graphic file (type png)
 <use images/read.png>
-Package pdftex.def Info: images/read.png  used on input line 629.
+Package pdftex.def Info: images/read.png  used on input line 631.
 (pdftex.def)             Requested size: 299.92006pt x 104.11491pt.
 <images/write.png, id=46, 1160.83687pt x 473.26813pt>
 File: images/write.png Graphic file (type png)
 <use images/write.png>
-Package pdftex.def Info: images/write.png  used on input line 633.
+Package pdftex.def Info: images/write.png  used on input line 635.
 (pdftex.def)             Requested size: 299.92006pt x 122.27411pt.
 
-Overfull \hbox (7.58118pt too wide) in paragraph at lines 583--635
+Overfull \hbox (7.58118pt too wide) in paragraph at lines 585--637
 $[]$ |  $[]$
  []
 
-[3 <./images/blocks.png> <./images/soft-hard.png> <./images/multi-level-indexing.png> <./images/read.png> <./images/write.png>] [4] (./cheatsheet.aux)
+[3 <./images/blocks.png> <./images/soft-hard.png> <./images/multi-level-indexing.png> <./images/read.png> <./images/write.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 643--654
+
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 657--664
+\OT1/cmr/m/n/7 - \OT1/cmr/bx/n/7 Write-through \OT1/cmr/m/n/7 | data writ-ten to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--664
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--664
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <7> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 700.
+
+Underfull \hbox (badness 10000) in paragraph at lines 682--704
+
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 716--720
+\OT1/cmr/m/n/7 CPU re-peat-edly checks de-vice sta-tus
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 716--720
+\OT1/cmr/bx/n/7 Con: \OT1/cmr/m/n/7 wastes CPU cy-cles if idle or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--720
+
+ []
+
+<images/dma.png, id=61, 372.39125pt x 434.62375pt>
+File: images/dma.png Graphic file (type png)
+<use images/dma.png>
+Package pdftex.def Info: images/dma.png  used on input line 760.
+(pdftex.def)             Requested size: 122.36716pt x 142.81615pt.
+<images/raid5.png, id=62, 409.53pt x 246.9225pt>
+File: images/raid5.png Graphic file (type png)
+<use images/raid5.png>
+Package pdftex.def Info: images/raid5.png  used on input line 803.
+(pdftex.def)             Requested size: 143.96034pt x 86.80093pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--805
+
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 826--828
+\OT1/cmr/bx/n/7 FIFO Schedul-ing (First-In, First-
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 826--828
+\OT1/cmr/m/n/7 fore schedul-ing next thread). Runs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--837
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--851
+
+ []
+
+<images/round-robin.png, id=63, 242.9075pt x 121.45375pt>
+File: images/round-robin.png Graphic file (type png)
+<use images/round-robin.png>
+Package pdftex.def Info: images/round-robin.png  used on input line 876.
+(pdftex.def)             Requested size: 115.1687pt x 57.58362pt.
+<images/mlfq.png, id=64, 243.91125pt x 181.67876pt>
+File: images/mlfq.png Graphic file (type png)
+<use images/mlfq.png>
+Package pdftex.def Info: images/mlfq.png  used on input line 904.
+(pdftex.def)             Requested size: 115.1687pt x 85.78543pt.
+[4 <./images/dma.png> <./images/raid5.png> <./images/round-robin.png> <./images/mlfq.png>] (./cheatsheet.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -573,18 +660,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4183 strings out of 474116
- 66631 string characters out of 5743682
+ 4213 strings out of 474116
+ 67318 string characters out of 5743682
  1969187 words of memory out of 5000000
- 26486 multiletter control sequences out of 15000+600000
- 566985 words of font info for 70 fonts, out of 8000000 for 9000
+ 26515 multiletter control sequences out of 15000+600000
+ 567334 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,15n,65p,425b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on cheatsheet.pdf (5 pages, 2151300 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
+Output written on cheatsheet.pdf (5 pages, 2419281 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 188 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
